@@ -66,5 +66,5 @@ Appから見れるようにする
 index.jsに<Provider store={store}></Provider>を設定する
 
 # 参考サイト
-React公式：https://ja.reactjs.org/
+React公式：https://ja.reactjs.org/<br>
 ReactRedux公式：https://react-redux.js.org/
