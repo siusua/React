@@ -47,7 +47,7 @@ npx create-react-app training-app
    ```
 
 4. store の作成
-   ・reducer を記載する箇所
+   ・reducer を記載する箇所<br>
    ※記述例
    ```
    import { configureStore } from "@reduxjs/toolkit";
@@ -62,9 +62,9 @@ npx create-react-app training-app
    ```
 
 5. store の適用
-Appから見れるようにする
+Appから見れるようにする<br>
 index.jsに<Provider store={store}></Provider>を設定する
 
 # 参考サイト
-React公式：https://ja.reactjs.org/
+React公式：https://ja.reactjs.org/<br>
 ReactRedux公式：https://react-redux.js.org/
