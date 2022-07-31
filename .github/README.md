@@ -65,6 +65,15 @@ npx create-react-app training-app
 Appから見れるようにする<br>
 index.jsに<Provider store={store}></Provider>を設定する
 
+## PC・スマホ対応
+reactResponsivをインスト－ル
+npm install react-responsive --save
+
+## deploy
+```
+npm run deploy
+https://siusua.github.io/React/
+```
 # 参考サイト
 React公式：https://ja.reactjs.org/<br>
 ReactRedux公式：https://react-redux.js.org/
